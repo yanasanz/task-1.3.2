@@ -30,7 +30,7 @@ internal class MainKtTest {
             previousTransfers = previousSum
         )
 
-        assertEquals(6000,result)
+        assertEquals(62000,result)
     }
 
     @Test
